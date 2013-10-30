@@ -34,6 +34,15 @@ public class MainActivity extends Activity {
 		imageView.setImageBitmap(bitmap);
 		
 		new ImageViewHelper(this,dm,imageView,bitmap,zoomInButton,zoomOutButton);     
+		/*
+		 * aergaewrhardhjasrdpogjasrgas
+		 * gaergaergaergaerg
+		 * aergaewr
+		 * gaer
+		 * g
+		 * aerg
+		 * aergaergaergaerg
+		 * */
 	}
 }
   
